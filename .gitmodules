@@ -1,0 +1,6 @@
+[submodule "phd-admin"]
+	path = phd-admin
+	url = https://github.com/Muzaffarxon04/phd-admin.git
+[submodule "project4"]
+	path = project4
+	url = https://gitlab.com/Shakh2000/project4.git
